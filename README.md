@@ -1,3 +1,4 @@
+Note: This is not owned by me, I only commited to the repository. If you want bug fixes, go to Kaparthy's original repository instead.
 
 # nanoGPT
 
